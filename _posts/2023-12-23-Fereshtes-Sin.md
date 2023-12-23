@@ -13,8 +13,7 @@
 جهت دانلود سریال تماشایی و جذاب گناه فرشته بر روی لینک زیر کلیک کنید:
 http://cooldl.net/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%d8%b3%d8%b1%db%8c%d8%a7%d9%84-%da%af%d9%86%d8%a7%d9%87-%d9%81%d8%b1%d8%b4%d8%aa%d9%87.html
 
-<h2 dir="auto">برای دانلود &gt;&gt; <a href="[https://tvmanoto.com/notebook-tv-series](http://cooldl.net/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%d8%b3%d8%b1%db%8c%d8%a7%d9%84-%da%af%d9%86%d8%a7%d9%87-%d9%81%d8%b1%d8%b4%d8%aa%d9%87.html)http://cooldl.net/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%d8%b3%d8%b1%db%8c%d8%a7%d9%84-%da%af%d9%86%d8%a7%d9%87-%d9%81%d8%b1%d8%b4%d8%aa%d9%87.html" rel="nofollow">دانلود سریال گناه فرشته</a></h2>
-
+<h2 dir="auto">کلیک کنید<a href="http://cooldl.net/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%d8%b3%d8%b1%db%8c%d8%a7%d9%84-%da%af%d9%86%d8%a7%d9%87-%d9%81%d8%b1%d8%b4%d8%aa%d9%87.html" rel="dofollow">دانلود سریال گناه فرشته</a></h2>
  ```tsql
  SELECT *
  FROM sys.tables
